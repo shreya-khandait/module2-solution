@@ -1,2 +1,2 @@
 # module2-solution
-Coursera Assignment 
+Coursera Assignment (Html Css Javascript for Web Developers)
